@@ -1,0 +1,10 @@
+
+English Language Test
+Version 1.0
+
+(á) 2001 Morev Nikolay, Zabrudskaya Natalya.
+         School 31, form 11b.
+
+     This program is intended to check students'
+knowledge of english language.
+
